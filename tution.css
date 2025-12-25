@@ -1,0 +1,21 @@
+
+.nav-button{
+    font-size: 40px;
+    text-align: center;
+    color: red;
+
+}
+.carousel-img{
+    height: 650px;
+    width: 1500px;
+}
+.container{
+    border: 2px solid lightblue;
+    
+}
+.result{
+    float: left;
+}
+.foot_result{
+    margin-left: 300px;
+}
